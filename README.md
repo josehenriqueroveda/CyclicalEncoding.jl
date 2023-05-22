@@ -35,8 +35,10 @@ Sine and cosine functions are commonly used for encoding cyclical variables beca
 
 When encoding a cyclical variable, we want to represent it as a point on a circle, where the angle of the point corresponds to the value of the variable. We can use the sine and cosine functions to calculate the **x** and **y** coordinates of the point on the circle, respectively.
 
-![Sine and Cosine](assets\Sinus_and_Cosinus.gif)
-[Eltos](https://commons.wikimedia.org/wiki/File:Sinus_und_Cosinus_am_Einheitskreis.gif), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+![](https://github.com/josehenriqueroveda/CyclicalEncoding.jl/blob/main/assets/Sinus_and_Cosinus.gif)
+
+>[Eltos](https://commons.wikimedia.org/wiki/File:Sinus_und_Cosinus_am_Einheitskreis.gif), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+
 
 By encoding a cyclical variable using sine and cosine functions, we can represent it as a point on a circle, which can be useful for visualization and analysis purposes. Additionally, the use of sine and cosine functions ensures that the encoding is periodic and wraps around smoothly, which can be important for certain applications.
 
