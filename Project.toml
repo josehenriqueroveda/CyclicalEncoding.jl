@@ -1,7 +1,7 @@
 name = "CyclicalEncoding"
 uuid = "f0974a9f-ffa1-426c-82c3-eb116e824257"
 authors = ["Jose Henrique Roveda"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1"
